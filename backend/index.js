@@ -334,6 +334,10 @@ app.post("/api/join/:id", upload.single("avatar"), (req, res) => {
   }
 });
 
+app.get("/", (req, res) => {
+  res.status(200).send("✅ Hans Luminova backend is live!");
+});
+
 // Handle referral clicks and redirects
 app.get("/g/:id", (req, res) => {
   try {
