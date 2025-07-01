@@ -1,0 +1,24 @@
+{
+  "2d391d59-f15c-4d29-8cac-fa108befe702": {
+    "id": "2d391d59-f15c-4d29-8cac-fa108befe702",
+    "title": "HANS BYTE MD",
+    "host": "HANS TECH",
+    "phone": "+237696900612",
+    "channelUrl": "https://u.me",
+    "endTime": 1751560500000,
+    "createdAt": 1751387723330,
+    "creatorIp": "127.0.0.1",
+    "status": "active"
+  },
+  "029f19be-73ff-4596-8f8a-c461b8ef5b7c": {
+    "id": "029f19be-73ff-4596-8f8a-c461b8ef5b7c",
+    "title": "HANS BYTE MD",
+    "host": "HANS TECH",
+    "phone": "+237696900612",
+    "channelUrl": "https://u.me",
+    "endTime": 1751474700000,
+    "createdAt": 1751388379303,
+    "creatorIp": "127.0.0.1",
+    "status": "active"
+  }
+}
